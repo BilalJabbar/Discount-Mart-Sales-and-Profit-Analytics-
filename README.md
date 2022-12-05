@@ -1,2 +1,2 @@
 # Discount-Mart-Sales-and-Profit-Analytics-
-<img src="dashboard 1.png" alt="View" title="Dashboard">
+<img src="Dashboard 1.png" alt="View" title="Dashboard">
